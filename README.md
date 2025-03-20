@@ -1,11 +1,3 @@
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://saimanvithanadella.github.io" target="_blank">
-  </a>
-  </kbd>
-</p>
-
 ## Sections 📚
 ✔️ About me\
 ✔️ Experience\
