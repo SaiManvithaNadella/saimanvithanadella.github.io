@@ -1,7 +1,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://saimanvithanadella.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://saimanvithanadella.github.io" target="_blank">
   </a>
   </kbd>
 </p>
